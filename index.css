@@ -5,11 +5,16 @@ body{
 
 h1{
   text-align: center;
+  padding-top: 2px;
 }
 
 .table{
   background-color: aliceblue;
-  border-radius: 15px
+  border-radius: 15px;
+  max-width: 850px;
+  margin: auto;
+  width: 75%;
+  padding-bottom: 25px;
 }
 
 h2{
@@ -21,6 +26,10 @@ table{
   border: 2px solid darksalmon;
   border-collapse: collapse;
   box-sizing: border-box;
+  display: table;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 th, td {
