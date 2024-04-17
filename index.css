@@ -26,6 +26,7 @@ table{
 th, td {
   border-bottom: 1px solid darksalmon;
   padding: 2px;
+  text-align: center;
 }
 
 tr:hover {background-color: lightcoral;}
